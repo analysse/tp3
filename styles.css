@@ -16,8 +16,12 @@ ul, ol {
   font-style: italic;
 }
 
+.title{
+  font-family: Papyrus;
+  color: #7C1616
+}
+
 .heading{
   font-family: Copperplate;
-  color: red;
-  font-size: 30px;
+  color: #7C1616;
 }
