@@ -8,6 +8,7 @@ h4 {
 
 ul, ol {
   margin-top: 0;
+  font-family: Helvetica;
 }
 
 .copyright {
@@ -24,8 +25,4 @@ ul, ol {
 .heading{
   font-family: Copperplate;
   color: #A54A4A;
-}
-
-.body{
-  font-famly: Helvetica;
 }
