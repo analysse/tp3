@@ -18,6 +18,6 @@ ul, ol {
 
 .heading{
   font-family: Courier New;
-  font-color:red;
-  font-size:20 px;
+  color: red;
+  font-size: 20 px;
 }
